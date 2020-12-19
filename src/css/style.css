@@ -676,7 +676,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -822,6 +822,11 @@ h4 {
 
 .bg-presentation {
     background-image: url("../img/image-de-presentation.jpg");
+}
+.quote {
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
 }
 
 @media (max-width: 1024px) {
